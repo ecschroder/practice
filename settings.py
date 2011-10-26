@@ -29,7 +29,7 @@ USE_L10N = True
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 MEDIA_ROOT = ''
 MEDIA_URL = ''
-STATIC_ROOT = ''
+STATIC_ROOT = 'C:/django_consultants/static'
 STATIC_URL = '/static/'
 
 ADMIN_MEDIA_PREFIX = '/static/admin/'
